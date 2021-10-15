@@ -1,0 +1,7 @@
+gradio
+tensorflow-cpu
+numpy
+Pillow==7.1.2
+opencv-python
+opencv-python-headless==4.5.1.48
+tensorflow-addons
