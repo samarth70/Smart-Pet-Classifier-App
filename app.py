@@ -36,7 +36,7 @@ model1='1TNF6uZBvcIfEUwzIR8t4L1kuImxb6PES'
 model2='1cK1cIYdczAoEPkiNZUqx2r1UqF2idcay'
 model3='1ldVcjryLk-YFfLRyNYdut5WeLLNxJ8ab'
 model = model1 #@param ["model1", "model2","model3"] {type:"raw"}
-PATH='/saved_model/best_model.h5'
+PATH='./saved_model/best_model.h5'
 getData(flid=model,path=PATH)
 
 # For example images
