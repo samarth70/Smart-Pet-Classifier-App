@@ -45,7 +45,7 @@ getData(flid=model,path=PATH)
 #                                     unzip=True)
 
 
-model=load_model('/saved_model/best_model.h5')
+model=load_model(PATH)
 
 labels=['Cat','Dog']
 NUM_CLASSES=2
